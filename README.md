@@ -1,6 +1,6 @@
 # face-and-gender-detection-with-python
 
-In this article, I will take you through the task of Age and Gender Detection with Machine Learning by using the Python programming language. Age and Gender Detection is the task of Computer vision so I will be using the OpenCV library in Python.
+In this repository, I will take you through the task of Age and Gender Detection with Machine Learning by using the Python programming language. Age and Gender Detection is the task of Computer vision so I will be using the OpenCV library in Python.
 The task of detecting age and gender, however, is an inherently difficult problem, more so than many other computer vision tasks. The main reason for this difficulty gap lies in the data required to train these types of systems.
 While general object detection tasks can often have access to hundreds of thousands or even millions of images for training, datasets with age and/or gender labels are considerably smaller, usually in the thousands or, at best, tens of thousands.
 
